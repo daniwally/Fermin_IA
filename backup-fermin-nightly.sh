@@ -47,6 +47,9 @@ if [ ! -f "memory/$(date +%Y-%m-%d).md" ] || ! grep -q "Backup Nocturno" "memory
     echo "📝 Backup entry added to daily memory" | tee -a "$LOG_FILE"
 fi
 
+# Note: All Postiz posts are created as DRAFTS for manual approval
+echo "🎯 REMINDER: All Postiz posts created as drafts for approval" | tee -a "$LOG_FILE"
+
 # 3. Commit with timestamp
 COMMIT_MSG="🛡️ Backup nocturno Fermin IA - $BACKUP_DATE
 
