@@ -1,0 +1,76 @@
+{
+  "account": "@theagents.wtf",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "posting_schedule": {
+    "frequency": "3 per week",
+    "days": ["Monday", "Wednesday", "Friday"],
+    "time": "10:00 AM"
+  },
+  "posts": [
+    {
+      "id": "post_1",
+      "title": "5 tareas que tu agente IA hace mientras dormís",
+      "scheduled_date": "2026-03-10 10:00",
+      "image_path": "2026-03-08-theagents-post1-5tareas.png",
+      "caption": "🌙 Mientras vos dormís, tu agente IA trabaja.\n\n5 tareas que nunca más vas a tener que hacer:\n\n💌 FOLLOW-UP AUTOMÁTICO\n→ Responde leads en menos de 30 segundos\n→ Nurturing personalizado según comportamiento\n→ Nunca más un prospect \"frío\" por falta de seguimiento\n\n📊 LEAD SCORING INTELIGENTE\n→ Analiza 200+ data points por lead\n→ Prioriza automáticamente tu pipeline\n→ Te dice exactamente cuándo contactar\n\n📅 CALENDAR MANAGEMENT\n→ Agenda reuniones según tu disponibilidad\n→ Confirma, reagenda y optimiza tu tiempo\n→ Prep automático antes de cada meeting\n\n📈 REPORTES EN TIEMPO REAL\n→ Métricas actualizadas 24/7\n→ Alertas cuando algo requiere atención\n→ Insights para tomar mejores decisiones\n\n🔍 COMPETITOR TRACKING\n→ Monitorea precios, productos, estrategias\n→ Alertas cuando cambia el mercado\n→ Te mantiene siempre un paso adelante\n\n¿Tu competencia ya duerme tranquila sabiendo que su agente trabaja?\n\n👇 Comentá \"DEMO\" y te mostramos cómo funciona\n\n#AgentesIA #Automatización #ProductividadEmpresarial #TheAgents #IAArgentina",
+      "cta": "DEMO",
+      "auto_response": "¡Perfecto! Te mando el link para agendar tu demo personalizada de 15 min: https://calendly.com/theagents/demo-15min"
+    },
+    {
+      "id": "post_2", 
+      "title": "¿Cuánto cuesta NO tener un agente IA?",
+      "scheduled_date": "2026-03-12 10:00",
+      "image_path": "2026-03-08-theagents-post2-costo.png",
+      "caption": "💸 El costo oculto que nadie calcula\n\nEMPRESA SIN AGENTE IA:\n❌ 47% de leads sin follow-up (fuente: HubSpot)\n❌ 15 horas/semana en tareas repetitivas\n❌ Respuesta promedio: 24 horas\n❌ Conversión: 2.3%\n❌ Errores humanos: 8% de los procesos\n\nEMPRESA CON AGENTE IA:\n✅ 100% de leads con seguimiento automático\n✅ 15 horas/semana libres para estrategia\n✅ Respuesta promedio: 30 segundos\n✅ Conversión: 8.7%\n✅ Errores: 0.02%\n\n💰 ROI REAL de no actuar:\n• Lead perdido promedio: $2,500\n• 47% sin seguimiento = $82,250/mes perdidos\n• Costo oportunidad anual: $987,000\n\n🔥 Costo de nuestro agente: $6,000/mes\n💵 Retorno promedio: $25,000/mes adicional\n\nLa pregunta no es si podés permitirte un agente IA.\nLa pregunta es: ¿podés permitirte NO tenerlo?\n\n📊 ¿Calculamos tu ROI específico?\nLink en bio para assessment gratuito.\n\n#ROI #AgentesIA #CostosOcultos #TheAgents #Automatización",
+      "cta": "Link en bio",
+      "bio_link": "https://forms.gle/theagents-roi-calculator"
+    },
+    {
+      "id": "post_3",
+      "title": "Agente IA vs Empleado: batalla de productividad", 
+      "scheduled_date": "2026-03-14 10:00",
+      "image_path": "2026-03-08-theagents-post3-vs-empleado.png",
+      "caption": "🥊 ROUND 1: Agente IA vs Empleado Tradicional\n\n👤 EMPLEADO TRADICIONAL:\n⏰ Horario: 8 horas/día\n💰 Costo anual: $60,000 + beneficios\n🏖️ Vacaciones: 20 días/año\n😴 Sick days: 5-8 días/año\n🧠 Capacidad: 1x velocidad humana\n📚 Training: 3-6 meses onboarding\n⚡ Multitasking: 3-4 tareas máximo\n\n🤖 AGENTE IA:\n⏰ Horario: 24/7/365 sin parar\n💰 Costo anual: $72,000 total\n🏖️ Vacaciones: 0 días (obvio)\n😴 Downtime: 0.01% (mantenimiento)\n🧠 Capacidad: 1000x velocidad humana\n📚 Training: Deploy en 48 horas\n⚡ Multitasking: Infinitas tareas simultáneas\n\n🏆 WINNER: ¿Necesitás que te lo digamos?\n\nNo es reemplazar personas.\nEs liberar talento humano para cosas que SÍ importan:\n• Estrategia\n• Creatividad\n• Relaciones\n• Innovación\n\n¿Tu equipo está listo para this level up?\n\n💬 Comentá \"LEVEL\" para ver cómo transformamos equipos\n\n#ProductividadIA #TransformaciónDigital #TheAgents #FuturoDelTrabajo",
+      "cta": "LEVEL",
+      "auto_response": "🚀 ¡Transformation time! Te contactamos en las próximas 2 horas para ver cómo level up tu equipo. Mientras tanto, completá este quick assessment: https://forms.gle/theagents-team-assessment"
+    },
+    {
+      "id": "post_4",
+      "title": "Los 3 errores que cometen las empresas con IA",
+      "scheduled_date": "2026-03-17 10:00", 
+      "image_path": "2026-03-08-theagents-post4-3errores.png",
+      "caption": "⚠️ 3 errores que arruinan tu implementación de IA\n\nERROR #1: \"Compramos IA y ya\"\n❌ Implementar herramientas sin estrategia\n❌ No definir objetivos claros\n❌ Esperar magia automática\n\n✅ LO CORRECTO:\n→ Audit completo de procesos actuales\n→ KPIs específicos antes del deploy\n→ Roadmap de 90 días con milestones\n\nERROR #2: \"El equipo se adapta solo\"\n❌ Zero training al equipo\n❌ Resistencia al cambio sin gestionar\n❌ Expectativas irreales de adopción\n\n✅ LO CORRECTO:\n→ Change management desde día 1\n→ Training hands-on de 2 semanas\n→ Champions internos que evangelicen\n\nERROR #3: \"Una vez y para siempre\"\n❌ Deploy and forget mentality\n❌ No optimizar basado en datos\n❌ No escalar conforme crece la empresa\n\n✅ LO CORRECTO:\n→ Monitoreo continuo de performance\n→ A/B testing de diferentes approaches\n→ Iteración mensual basada en feedback\n\n🎯 RESULTADO: 89% de nuestros clientes ve ROI positivo en 45 días\n\n¿Cometiste alguno de estos errores?\nNo pasa nada, son reversibles 💪\n\n📞 ¿Auditamos tu implementación actual?\nDM \"AUDIT\" para assessment gratuito.\n\n#ErroresIA #ImplementaciónIA #TheAgents #TransformaciónDigital",
+      "cta": "AUDIT",
+      "auto_response": "🔍 ¡Audit time! Completá este formulario de 3 min y te mandamos tu diagnóstico completo en 24hs: https://forms.gle/theagents-ia-audit"
+    },
+    {
+      "id": "post_5",
+      "title": "¿Tu competencia ya tiene agentes IA?",
+      "scheduled_date": "2026-03-19 10:00",
+      "image_path": "2026-03-08-theagents-post5-competencia.png", 
+      "caption": "🕵️ INTEL: Tu competencia ya se movió\n\nDATOS QUE TE VAN A IMPACTAR:\n\n📊 67% de empresas B2B ya implementaron algún tipo de automatización IA (McKinsey 2026)\n\n🏃‍♂️ Early adopters reportan:\n• 23% más velocidad en sales cycles\n• 31% mejor conversión de leads\n• 45% reducción en customer acquisition cost\n• 89% de su equipo \"no volvería atrás\"\n\n🎯 INDUSTRIAS QUE MÁS ADOPTAN:\n1. SaaS: 78% ya tiene agentes\n2. E-commerce: 71% automatización avanzada\n3. Real Estate: 64% lead nurturing IA\n4. Marketing Agencies: 61% client management IA\n5. Consultoras: 58% proposal automation\n\n⚡ LO QUE ESTÁ PASANDO AHORA:\n→ Mientras leés esto, un agente IA está:\n   • Respondiendo a TU prospect\n   • Optimizando precios vs tu competencia\n   • Automatizando procesos que vos haces manual\n   • Escalando sin contratar más gente\n\n🔥 PREGUNTA CRUCIAL:\n¿Vas a liderar la transformación o vas a reaccionar cuando sea tarde?\n\n💀 First-mover advantage se termina en 2026.\n\n¿Tu estrategia IA está lista?\n\n⚡ Comentá \"READY\" si querés estar en el 33% que lidera.\n\n#CompetenciaIA #FirstMoverAdvantage #TheAgents #TransformaciónDigital #Liderazgo",
+      "cta": "READY",
+      "auto_response": "🔥 ¡Let's go! Te agendamos una Strategy Session de 30 min para diseñar tu roadmap IA. Elegí tu horario: https://calendly.com/theagents/strategy-30min"
+    }
+  ],
+  "lead_capture_forms": {
+    "roi_calculator": "https://forms.gle/theagents-roi-calculator",
+    "team_assessment": "https://forms.gle/theagents-team-assessment", 
+    "ia_audit": "https://forms.gle/theagents-ia-audit"
+  },
+  "calendly_links": {
+    "demo_15min": "https://calendly.com/theagents/demo-15min",
+    "strategy_30min": "https://calendly.com/theagents/strategy-30min"
+  },
+  "hashtag_groups": {
+    "industry": ["#AgentesIA", "#Automatización", "#TransformaciónDigital", "#IAArgentina"],
+    "business": ["#ProductividadEmpresarial", "#ROI", "#FuturoDelTrabajo", "#Liderazgo"],
+    "branded": ["#TheAgents"]
+  },
+  "auto_dm_responses": {
+    "DEMO": "¡Perfecto! Te mando el link para agendar tu demo personalizada de 15 min: https://calendly.com/theagents/demo-15min",
+    "LEVEL": "🚀 ¡Transformation time! Te contactamos en las próximas 2 horas para ver cómo level up tu equipo. Mientras tanto, completá este quick assessment: https://forms.gle/theagents-team-assessment",
+    "AUDIT": "🔍 ¡Audit time! Completá este formulario de 3 min y te mandamos tu diagnóstico completo en 24hs: https://forms.gle/theagents-ia-audit",
+    "READY": "🔥 ¡Let's go! Te agendamos una Strategy Session de 30 min para diseñar tu roadmap IA. Elegí tu horario: https://calendly.com/theagents/strategy-30min"
+  }
+}

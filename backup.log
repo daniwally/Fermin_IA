@@ -1,0 +1,56 @@
+🛡️ Fermin IA Backup - 2026-03-08_16-34-48
+================================================
+📁 Adding files to git...
+📝 Backup entry added to daily memory
+💾 Creating commit...
+[master (root-commit) 8957ee0] 🛡️ Backup nocturno Fermin IA - 2026-03-08_16-34-48
+ 43 files changed, 3004 insertions(+)
+ create mode 100644 .openclaw/workspace-state.json
+ create mode 100644 2026-03-08-theagents-post1-5tareas.png
+ create mode 100644 2026-03-08-theagents-post2-costo.png
+ create mode 100644 2026-03-08-theagents-post3-vs-empleado.png
+ create mode 100644 2026-03-08-theagents-post4-3errores.png
+ create mode 100644 2026-03-08-theagents-post5-competencia.png
+ create mode 100644 AGENTS.md
+ create mode 100644 HEARTBEAT.md
+ create mode 100644 IDENTITY.md
+ create mode 100644 MEMORY.md
+ create mode 100644 POSTIZ-SETUP-INSTRUCTIONS.md
+ create mode 100644 SOUL.md
+ create mode 100644 TOOLS.md
+ create mode 100644 USER.md
+ create mode 100644 avatar-dora.jpg
+ create mode 100755 backup-fermin-nightly.sh
+ create mode 100644 backup.log
+ create mode 100644 executive_summary_market_analysis.md
+ create mode 100644 market_analysis_the_agents.md
+ create mode 100644 memory/2026-02-14.md
+ create mode 100644 memory/2026-02-15.md
+ create mode 100644 memory/2026-02-16.md
+ create mode 100644 memory/2026-02-17.md
+ create mode 100644 memory/2026-02-18.md
+ create mode 100644 memory/2026-02-19.md
+ create mode 100644 memory/2026-02-20.md
+ create mode 100644 memory/2026-02-26.md
+ create mode 100644 memory/2026-03-01.md
+ create mode 100644 memory/2026-03-02.md
+ create mode 100644 memory/creditos-supervielle.md
+ create mode 100644 memory/pisco-diablo-investigacion-modelo.md
+ create mode 100644 memory/pisco-diablo-presupuesto-analisis.md
+ create mode 100644 memory/wtf-template-presupuesto.md
+ create mode 100644 postiz-api-automation.py
+ create mode 100644 templates/fermin-email-templates.md
+ create mode 100644 theagents-automation-implementation.md
+ create mode 100644 theagents-calendly-setup.md
+ create mode 100644 theagents-forms-setup.md
+ create mode 100644 theagents-postiz-automation.json
+ create mode 100644 theagents-postiz-complete-package.tar.gz
+ create mode 100644 theagents-postiz-import.csv
+ create mode 100644 theagents-visual-brief.md
+ create mode 100644 theagents_client_secret.json
+☁️ Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': No such device or address
+✅ BACKUP SUCCESSFUL - 2026-03-08_16-34-48
+🔗 Repository: https://github.com/daniwally/Fermin_IA
+================================================
+
